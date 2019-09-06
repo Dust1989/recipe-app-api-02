@@ -1,4 +1,4 @@
-language: python
+language: pythonself.client.get(reverse('polls:index'))
 python:
   - "3.6"
 
